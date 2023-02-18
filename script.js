@@ -73,4 +73,4 @@ demo();
 
     setTimeout(function(){
      theme.play();
-    }, 7800)
+    }, 6800)
